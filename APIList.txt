@@ -1,0 +1,6 @@
+ProductController
+1. Get Products - Done
+2. Add a product
+3. Get one product
+4. Rate product
+6. Filter Product
